@@ -1,6 +1,6 @@
 {
   "name": "Www.cobblestonepe.com",
   "tagline": "",
-  "body": "<div style=\"background-image:url(https://tse1.mm.bing.net/th?id=OIP.M2ab1c37cfdff720c6de2ddb07328f145H0&w=99&h=105&c=8&rs=1&qlt=90&pid=3.1&rm=2);width:1000px;height:1000px;color:black;font-size:18px;\">",
+  "body": "<html>\r\n<body>\r\n<div style=\"background-image:url(https://tse1.mm.bing.net/th?id=OIP.M2ab1c37cfdff720c6de2ddb07328f145H0&w=99&h=105&c=8&rs=1&qlt=90&pid=3.1&rm=2);width:1000px;height:1000px;color:black;font-size:18px;\">",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
